@@ -1,6 +1,12 @@
 # RCON CLIENT
 Lib simples para enviar comandos rcon a servidores de cs 1.6.
 
+## Instalação
+
+```shell
+composer require wilianmaique/cstrike-rcon-client
+```
+
 # Como usar
 
 index.php
