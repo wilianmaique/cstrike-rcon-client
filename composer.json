@@ -1,0 +1,19 @@
+{
+	"name": "wilianmaique/cstrike-rcon-client",
+	"description": "Permite enviar comandos rcon para servidores de cs 1.6 via web.",
+	"type": "library",
+	"license": "GPL-3.0-or-later",
+	"authors": [
+		{
+			"name": "Wilian Maique"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"WilianMaique\\RconClient\\": "src/"
+		}
+	},
+	"require": {
+		"php": ">=7.0"
+	}
+}
